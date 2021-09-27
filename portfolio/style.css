@@ -104,7 +104,7 @@ header .user .name{
     color:#fff;
 }
 
-header .user .post{
+header .user .explane{
     font-size: 2rem;
     color:#eee;
 }
@@ -392,6 +392,10 @@ header .navbar ul li a:hover{
 
     .heading{
         margin:0 3rem;
+    }
+
+    .about .row .counter .box{
+        width: 100%;
     }
  
     .education .box-container .box{
